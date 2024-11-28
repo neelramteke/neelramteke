@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @neelramteke
-- 👀 I’m interested in web development and AI
-- 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m a aspriring Data Analyst
 - 📫 You can reach me at @neelramteke.nr@gmail.com
-- 😄 Pronouns: He/Him
+  
 
 
 <!---

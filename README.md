@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neel Ramteke</h1>
 <h3 align="center">A aspiring Data Analyst from India</h3>
 
-<p align="left"> <a href="https://twitter.com/neelramteke_" target="blank"><img src="https://img.shields.io/twitter/follow/neelramteke_?logo=twitter&style=for-the-badge" alt="neelramteke_" /></a> </p>
 
 - 🌱 I’m currently learning **Beautiful Soup and Serverless Analystics**
 

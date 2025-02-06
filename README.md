@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **PowerBI, SQL, ETL, NumPy, Pandas, Data Visualization and more within the analytics domain.**
 
-- 📫 How to reach me **neelramteke.nr@gmail.com**
+- 📫 Reach me at **neelramteke.nr@gmail.com**
 
 - ⚡ Fun fact **I am creative and critical thinker!**
 

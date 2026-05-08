@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Neel Ramteke</h1>
-<h3 align="center">A aspiring Data Analyst from India</h3>
+<h3 align="center">Business Analyst from India</h3>
 
 
-- 🌱 I’m currently learning **Beautiful Soup and Serverless Analystics**
-
-- 💬 Ask me about **PowerBI, SQL, ETL, NumPy, Pandas, Data Visualization and more within the analytics domain.**
+- 💬 Ask me about **Business Analytics, Project Management, PowerBI and more within the analytics domain.**
 
 - 📫 Reach me at **neelramteke.nr@gmail.com**
 
